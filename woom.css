@@ -1,0 +1,71 @@
+#poo {
+    width: 55%;
+    left: 24%;
+    position: absolute;
+    border: solid black;
+    padding: 20px;
+    height: auto;
+}
+
+.help{
+    position: absolute;
+    right: -100px;
+
+}
+
+.listen{
+    position: absolute;
+    left: -100px;
+
+
+}
+
+.here{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    position: absolute;
+    left: 23%;
+}
+
+#boy{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    letter-spacing: ;
+    word-spacing:;
+    color: #000000;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    width: 700px;
+}
+
+.o{
+    color: red;
+}
+
+.you{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+
+
+
